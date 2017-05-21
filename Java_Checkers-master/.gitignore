@@ -1,0 +1,11 @@
+*.sublime-project
+*.project
+*.sublime-workspace
+*.class
+*~
+/bin
+/documentation/JavaDoc
+/.settings
+/dist
+/build
+/classes
